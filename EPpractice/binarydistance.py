@@ -1,3 +1,4 @@
+#Converts a number to binary and finds its binary gap
 check = False
 while not check :
     try:

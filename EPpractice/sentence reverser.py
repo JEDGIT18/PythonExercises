@@ -1,3 +1,4 @@
+#flips a sentence
 orgstring  = input("Enter a sentance: ")
 
 sentence = []

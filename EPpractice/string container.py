@@ -1,4 +1,4 @@
-
+#checks if a word is in a string
 orgstring  = input("Enter a string: ")
 innerStr = input("What string do you wanna find in first string ")
 

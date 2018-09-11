@@ -1,3 +1,4 @@
+#finds if a pair of numbers in array equals a given sum
 arr = [2,3,2,4,5,6,7,8,9]
 sum = 4
 pairs = {}

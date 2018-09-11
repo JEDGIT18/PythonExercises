@@ -1,3 +1,4 @@
+#finds the unique characters in a string
 Chars = {}
 uniqueChars = []
 string = str(input("enter a string: "))

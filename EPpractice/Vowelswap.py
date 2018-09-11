@@ -1,3 +1,4 @@
+#swaps th last vowel in a string with the first and so on and so forth
 word = input("Enter a string: ")
 vowels =['a','e','i','o','u']
 vowelsInWord =[]
